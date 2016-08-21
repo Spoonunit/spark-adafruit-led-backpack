@@ -26,7 +26,7 @@
   #include <Wire.h>
  #endif
 #endif
-#include "adafruit-led-backpack.h"
+#include "adafruit-led-backpack-for-photon.h"
 
 #ifndef _BV
   #define _BV(bit) (1<<(bit))
