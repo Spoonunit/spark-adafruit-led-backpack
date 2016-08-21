@@ -1,6 +1,6 @@
 {
     "name": "adafruit-led-backpack-for-photon",
-    "version": "1.0.0",
+    "version": "1.0.0.1",
     "author": "Duncan Ford <spoonbase@googlemail.com>",
     "license": "MIT",
     "description": "Forked from creationix/spark-adafruit-led-backpack, in turn forked from Adafruit's LED Backpack library, for SparkCore"
