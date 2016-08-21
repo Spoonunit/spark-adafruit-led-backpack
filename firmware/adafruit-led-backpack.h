@@ -19,7 +19,7 @@
  ****************************************************/
 
 #ifdef SPARK
- #include "application.h"
+ #include "Particle.h"
 #elif (ARDUINO >= 100)
  #include "Arduino.h"
 #else
